@@ -53,3 +53,19 @@ Interactome map between 2019CoV and human cell
 - https://blogs.sciencemag.org/pipeline/archives/2020/03/26/what-the-coronavirus-proteins-are-targeting
 
 Targets of the 2019CoV proteins
+
+## Interesting topics
+
+### DNA
+
+- Alignments between 2019CoV and other known coronaviruses, bat CoV
+
+- Highlightning of each part of the sequence whose role is known
+
+### Interactome
+
+- Map of interactome between human and 2019CoV, with highlight of the interactions whose role is known/important
+
+
+
+
