@@ -1,5 +1,43 @@
 # coviz
 
+## Interesting topics
+
+### DNA
+
+- Alignments between 2019CoV and other known coronaviruses, bat CoV
+
+- Highlightning of each part of the sequence whose role is known
+
+[Nextrains](https://nextstrain.org/ncov) aligns all known strains all the virus, highlighting mutations on their RNA sequence and showing connections on the world map. I think we can take this as a reference for content.
+
+#### Functional Genomics: 
+
+*(from wikipedia)*
+
+4 structural proteins:
+
+- S: Spike (attach human cells at ACE2 receptor?),
+- E: Envelope,
+- M: Membrane,
+- N: Nucleocapside (folds RNA?),
+
+Genetic information of coronavirus is highly complex, unsurprisingly, since all the informatiin is packed into ~30kb (b stands for bases, not bytes, but the concept is ridicolusly similart). Evolution and  function of the RNA sequence is reviewed here: https://www.cell.com/trends/microbiology/fulltext/S0966-842X(16)30133-0
+
+*this review does not include the actual virus, which is very similar to the SARS-Cov*
+
+Notes:
+
+- 2 big overlapping open reading frames (1a and 1b) --> 16 non structural proteins,
+- rest at 3' --> structural proteins (S, E, M, N) + accessory proteins (???)
+
+*add more notes here*
+
+
+### Interactome
+
+- Map of interactome between human and 2019CoV, with highlight of the interactions whose role is known/important
+
+
 ## Interesting links
 
 ### DNA sequence
@@ -54,17 +92,6 @@ Interactome map between 2019CoV and human cell
 
 Targets of the 2019CoV proteins
 
-## Interesting topics
-
-### DNA
-
-- Alignments between 2019CoV and other known coronaviruses, bat CoV
-
-- Highlightning of each part of the sequence whose role is known
-
-### Interactome
-
-- Map of interactome between human and 2019CoV, with highlight of the interactions whose role is known/important
 
 
 
