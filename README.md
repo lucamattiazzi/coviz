@@ -37,6 +37,9 @@ Notes:
 
 - Map of interactome between human and 2019CoV, with highlight of the interactions whose role is known/important
 
+### Meta
+
+- Map of researchers and university that have published papers on the coronavirus before and during the pandemic
 
 ## Interesting links
 
