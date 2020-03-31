@@ -37,6 +37,12 @@ Notes:
 
 - Map of interactome between human and 2019CoV, with highlight of the interactions whose role is known/important
 
+CoV2019 DNA has 29 proteins written over 14 ORFs. Out of those 29, only 26 were analyzed against the proteome of a human cell to find any interaction between human proteins and viral ones, and 332 interactions have been found.
+
+The human tissue that most expresses these proteins is, as expected, the lung. Comparing this interactome with other known from other viruses, the most similar ones are the tuberculosis and West Nile virus, both causing pulmonary conditions.
+
+Out of the initial 332 interactions, 62 (66 with more relaxed thresholds) were selected because they already have drugs or preclinical molecules targetting and modulating them.
+
 ### Meta
 
 - Map of researchers and university that have published papers on the coronavirus before and during the pandemic
@@ -89,13 +95,10 @@ Difference between this virus and other coronaviruses in the spike glicoprotein
 
 - https://www.biorxiv.org/content/10.1101/2020.03.22.002386v1.full.pdf
 
+
+CoV2019 DNA expresses 29 proteins. 
 Interactome map between 2019CoV and human cell
 
 - https://blogs.sciencemag.org/pipeline/archives/2020/03/26/what-the-coronavirus-proteins-are-targeting
 
 Targets of the 2019CoV proteins
-
-
-
-
-
