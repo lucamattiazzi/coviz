@@ -6,6 +6,10 @@
 
 - Alignments between 2019CoV and other known coronaviruses, bat CoV
 
+https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25762
+
+Analysis of the mutations in human strains.
+
 - Highlightning of each part of the sequence whose role is known
 
 [Nextrains](https://nextstrain.org/ncov) aligns all known strains all the virus, highlighting mutations on their RNA sequence and showing connections on the world map. I think we can take this as a reference for content.
