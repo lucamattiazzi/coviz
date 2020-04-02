@@ -10,6 +10,10 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25762
 
 Analysis of the mutations in human strains.
 
+https://www.biorxiv.org/content/10.1101/2020.03.30.016790v1.full.pdf
+
+Interesting but inconclusive paper on the different human strains, according to this the 5 major strains, that are occupy different geographic areas, are the consequence of the founder effect and not some other cause (better fitness in the environment).
+
 - Highlightning of each part of the sequence whose role is known
 
 [Nextrains](https://nextstrain.org/ncov) aligns all known strains all the virus, highlighting mutations on their RNA sequence and showing connections on the world map. I think we can take this as a reference for content.
