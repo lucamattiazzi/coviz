@@ -18,7 +18,7 @@ Interesting but inconclusive paper on the different human strains, according to 
 
 [Nextrains](https://nextstrain.org/ncov) aligns all known strains all the virus, highlighting mutations on their RNA sequence and showing connections on the world map. I think we can take this as a reference for content.
 
-#### Functional Genomics: 
+### Functional Genomics: 
 
 *(from wikipedia)*
 
